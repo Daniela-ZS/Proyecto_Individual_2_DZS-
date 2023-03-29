@@ -87,8 +87,8 @@ En el proceso del análisis para encontrar en qué empresa del S&P 500 conviene 
 Atendiendo a esas métricas calculadas podemos plantear KPIs acordes a los objetivos planteados con anterioridad:
 
 * Sostener el promedio de variación de cierre ajustado con valores positivos durante el próximo trimestre.
-* Aumentar el valor de las inversiones un ...% el próximo semestre.
-* Alcanzar un promedio de inversiones de ... el próximo año.
+* Aumentar el valor de las inversiones un 15% el próximo semestre.
+* Alcanzar un promedio de inversiones superior a 1.5 millones el próximo año.
 
 Estos KPIs medirán si la inversión fue positiva o no, en el plazo máximo de un año.
 

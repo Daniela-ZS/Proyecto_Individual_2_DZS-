@@ -3,7 +3,7 @@ PIDA
 
 # **Proyecto individual 2: "Mercado Bursátil" (Data Analyst)**
 
-![StreamPLUS]() ![S&P_500]()
+![StreamPLUS](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/StreamPLUS.jpg) ![S&P_500](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/syp500.jpg)
 
 ## **Por Daniela Zarich Santi**
 
@@ -35,7 +35,7 @@ _____
 
 Para comenzar, investigamos cuáles son las empresas que forman parte del S&P 500 y en qué sectores se desempeñan, para buscar una categoría acorde a la nuestra (StreamPLUS). Como nosotros nos desempeñamos en el ámbito del streaming, la búsqueda fue orientada por ese lado, sector 'Movies & Entertainment'. Encontramos que hay cinco empresas diferentes en el sector, pero descartamos una, Live, porque está orientada a la ópera y venta de boletos en vivo para espectáculos, por lo que el estudio se realizó sobre las cuatro restantes: Disney, Fox, Netflix y Paramount (los códigos dentro del gigante financiero son DIS, FOX, NFLX y PARA, respectivamente).
 
-![DIS]() ![FOX]() ![NFLX]() ![PARA]()
+![DIS](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/disney.jpg) ![FOX](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/fox.jpg) ![NFLX](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/netflix.jpg) ![PARA](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/paramount.jpg)
 
 Luego realizamos reportes de cada una de las empresas mencionadas para extraer conclusiones.
 
@@ -59,23 +59,21 @@ En varios tableros se puede filtrar por empresa (DIS, FOX, NFLX, PARA) y por ven
 
 A continuación se presentan ejemplos de la portada y los tableros:
 
-![Portada]()
+![Portada](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2000%20portada.jpg)
 
-![Tablero1]()
+![Tablero1](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2001%20evol%20precio%20-%20PARA.jpg)
 
-![Tablero2]()
+![Tablero2](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2002%20vol%20inversiones%20-%20DIS.jpg)
 
-![Tablero3]()
+![Tablero3](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2003%20vol%20pje%20-%20x4.jpg)
 
-![Tablero4]()
+![Tablero4](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2004%20vol%20x%20a%C3%B1o%20-%20x4.jpg)
 
-![Tablero5]()
+![Tablero5](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2005%20pje%20var%20x%20a%C3%B1o%20-%20FOX.jpg)
 
-![Tablero6]()
+![Tablero6](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2006%20bis%20valor%20x%20a%C3%B1o%20x4.jpg)
 
-![Tablero7]()
-
-![Tablero8]()
+![Tablero7](https://github.com/Daniela-ZS/Proyecto_Individual_2_DZS-/blob/main/Im%C3%A1genes/PBI%2007%20prom%20diario%20vol%20y%20valor%20-%20PARA.jpg)
 
 
 ## KPIs
